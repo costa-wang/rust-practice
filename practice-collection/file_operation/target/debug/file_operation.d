@@ -1,1 +1,1 @@
-/home/costa/rust_project/rust-practice/practice-collection/file_operation/target/debug/file_operation: /home/costa/rust_project/rust-practice/practice-collection/file_operation/src/main.rs
+E:\rust_workspace\zixue\rust-practice\practice-collection\file_operation\target\debug\file_operation.exe: E:\rust_workspace\zixue\rust-practice\practice-collection\file_operation\src\main.rs
