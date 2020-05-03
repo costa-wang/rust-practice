@@ -1,0 +1,13 @@
+[package]
+name = "future-duration"
+version = "0.1.0"
+authors = ["costa-wang <3162284013@qq.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+futures = { version = "0.3.4", features = ["executor", "thread-pool"] }
+futures-util = { version = "0.3.4" }
+futures-executor = { version = "0.3.4" }
+async-task = { version = "3.0.0"}

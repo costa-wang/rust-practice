@@ -1,0 +1,1 @@
+E:\rust_workspace\zixue\rust-practice\practice-collection\async\future-duration\target\debug\future-duration.exe: E:\rust_workspace\zixue\rust-practice\practice-collection\async\future-duration\src\main.rs

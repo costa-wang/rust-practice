@@ -1,0 +1,10 @@
+E:\rust_workspace\zixue\rust-practice\practice-collection\async\future-1\target\debug\deps\crossbeam_queue-37f662be5690c4fc.rmeta: C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-queue-0.2.1\src\lib.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-queue-0.2.1\src\array_queue.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-queue-0.2.1\src\err.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-queue-0.2.1\src\seg_queue.rs
+
+E:\rust_workspace\zixue\rust-practice\practice-collection\async\future-1\target\debug\deps\libcrossbeam_queue-37f662be5690c4fc.rlib: C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-queue-0.2.1\src\lib.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-queue-0.2.1\src\array_queue.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-queue-0.2.1\src\err.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-queue-0.2.1\src\seg_queue.rs
+
+E:\rust_workspace\zixue\rust-practice\practice-collection\async\future-1\target\debug\deps\crossbeam_queue-37f662be5690c4fc.d: C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-queue-0.2.1\src\lib.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-queue-0.2.1\src\array_queue.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-queue-0.2.1\src\err.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-queue-0.2.1\src\seg_queue.rs
+
+C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-queue-0.2.1\src\lib.rs:
+C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-queue-0.2.1\src\array_queue.rs:
+C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-queue-0.2.1\src\err.rs:
+C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-queue-0.2.1\src\seg_queue.rs:
