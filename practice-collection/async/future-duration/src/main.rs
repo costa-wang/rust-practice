@@ -49,9 +49,12 @@ impl Future for Delay {
 
 fn main(){
     let mut list_of_delay = vec![];
-    for _ in 0..10 {
+    for _ in 0..1000 {
         list_of_delay.push(Delay::new(Duration::from_secs(5)));
     }
+    // for i in 0..10 {
+    //     list_of_delay.push(Delay::new(Duration::from_secs(i)));
+    // }
 
     let all = futures_util::future::join_all(list_of_delay);
 
