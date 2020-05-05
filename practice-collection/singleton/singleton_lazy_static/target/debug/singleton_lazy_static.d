@@ -1,0 +1,1 @@
+E:\rust_workspace\zixue\rust-practice\practice-collection\singleton\singleton_lazy_static\target\debug\singleton_lazy_static.exe: E:\rust_workspace\zixue\rust-practice\practice-collection\singleton\singleton_lazy_static\src\main.rs
